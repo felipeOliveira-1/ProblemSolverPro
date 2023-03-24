@@ -3,7 +3,7 @@ import openai
 
 # Set the OpenAI API key
 # Replace with your actual API key
-openai.api_key = "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"
+openai.api_key = ""
 
 # Define the list of problem-solving approaches
 problem_solving_approaches = [
